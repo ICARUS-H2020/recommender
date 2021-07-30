@@ -1,0 +1,9 @@
+requests
+flask
+flask_api
+python-dotenv
+numpy
+pandas
+scikit-surprise
+psycopg2
+redis

@@ -1,0 +1,3 @@
+2 * * * *  /src/models_training/training.sh >> /var/log/cron.log 2>&1
+
+
