@@ -70,5 +70,5 @@ localhost:5000/api/v1/recommender/
 As already mentioned, recommender is a hybrid recommendation system, it uses content-based model and collaborative filtering, which it is consisted by a user-based model and an item-based model. It also provides an api to be able to retrieve the recommendations that it created.
 
 <div align="center">
-	<img style="max-width: 50%!important; height: auto" src="./recommender_architecture.png">
+	<img style="max-width: 400px; height: auto" src="./recommender_architecture.png">
 </div>
